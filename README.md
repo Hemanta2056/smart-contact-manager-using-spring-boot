@@ -1,5 +1,6 @@
 # smart-contact-manager-using-spring-boot
 Smart Contact Manager is a web application built using the Spring Boot framework.
+================================================================================================================================================================================
 
 Project Overview:
 Smart Contact Manager is a comprehensive web application developed using the Spring Boot framework (version 3.2.2). The application offers a suite of features, empowering users to efficiently manage their contacts and ensure secure user interactions. Key functionalities include:
